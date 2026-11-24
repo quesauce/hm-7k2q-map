@@ -780,8 +780,8 @@
    "plot": 284,
    "beds": 4,
    "lab": "A",
-   "yard": "nc",
-   "bg": null
+   "yard": "no",
+   "bg": 90
   },
   {
    "u": "https://www.funda.nl/detail/koop/bussum/huis-molenlaan-20/80904937/",
@@ -793,8 +793,8 @@
    "plot": 160,
    "beds": 6,
    "lab": "A",
-   "yard": "nc",
-   "bg": null
+   "yard": "no",
+   "bg": 24
   },
   {
    "u": "https://www.funda.nl/detail/koop/almere/huis-zeussingel-41/80982986/",
@@ -806,8 +806,8 @@
    "plot": 168,
    "beds": 3,
    "lab": "A+",
-   "yard": "nc",
-   "bg": null
+   "yard": "no",
+   "bg": 57
   },
   {
    "u": "https://www.funda.nl/detail/koop/almere/huis-vasco-da-gamapad-17/80905186/",
@@ -819,8 +819,8 @@
    "plot": 242,
    "beds": 4,
    "lab": "A++",
-   "yard": "nc",
-   "bg": null
+   "yard": "no",
+   "bg": 70
   },
   {
    "u": "https://www.funda.nl/detail/koop/almere/huis-noorderduinslag-9/80960276/",
@@ -832,8 +832,8 @@
    "plot": 134,
    "beds": 4,
    "lab": "A",
-   "yard": "nc",
-   "bg": null
+   "yard": "no",
+   "bg": 16
   },
   {
    "u": "https://www.funda.nl/detail/koop/almere/huis-slipsteek-22/44528099/",
@@ -858,8 +858,8 @@
    "plot": 146,
    "beds": 4,
    "lab": "A",
-   "yard": "nc",
-   "bg": null
+   "yard": "no",
+   "bg": 50
   },
   {
    "u": "https://www.funda.nl/detail/koop/weesp/huis-waarschapsstraat-150/44477488/",
@@ -871,8 +871,8 @@
    "plot": 218,
    "beds": 4,
    "lab": "B",
-   "yard": "nc",
-   "bg": null
+   "yard": "no",
+   "bg": 58
   }
  ]
 }
