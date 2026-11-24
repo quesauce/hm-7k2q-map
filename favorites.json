@@ -1,8 +1,21 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "budget": 900000,
- "source": "Funda favorites pages 1-5",
+ "source": "Funda favorites pages 1-6",
  "favorites": [
+  {
+   "u": "https://www.funda.nl/detail/koop/almere/huis-gerard-philipestraat-7/44684818/",
+   "a": "Gérard Philipestraat 7",
+   "pc": "1325",
+   "t": "Almere",
+   "price": 825000,
+   "liv": 194,
+   "plot": 497,
+   "beds": 6,
+   "lab": "A",
+   "yard": "yes",
+   "bg": 224
+  },
   {
    "u": "https://www.funda.nl/detail/koop/almere/huis-de-horizon-55/44684884/",
    "a": "De Horizon 55",
@@ -576,7 +589,7 @@
    "bg": 69
   },
   {
-   "u": "https://www.funda.nl/detail/koop/almere/huis-abrikozenhof-28/44662714/",
+   "u": "https://www.funda.nl/detail/koop/verkocht/almere/huis-abrikozenhof-28/44662714/",
    "a": "Abrikozenhof 28",
    "pc": "1326",
    "t": "Almere",
@@ -742,6 +755,123 @@
    "beds": 4,
    "lab": "A+",
    "yard": "unknown",
+   "bg": null
+  },
+  {
+   "u": "https://www.funda.nl/detail/koop/almere/huis-cissy-van-marxveldtstraat-65/44657259/",
+   "a": "Cissy van Marxveldtstraat 65",
+   "pc": "1321",
+   "t": "Almere",
+   "price": 850000,
+   "liv": 240,
+   "plot": 527,
+   "beds": 5,
+   "lab": "A",
+   "yard": "likely",
+   "bg": null
+  },
+  {
+   "u": "https://www.funda.nl/detail/koop/almere/huis-plecht-4/44531959/",
+   "a": "Plecht 4",
+   "pc": "1319",
+   "t": "Almere",
+   "price": 875000,
+   "liv": 170,
+   "plot": 284,
+   "beds": 4,
+   "lab": "A",
+   "yard": "nc",
+   "bg": null
+  },
+  {
+   "u": "https://www.funda.nl/detail/koop/bussum/huis-molenlaan-20/80904937/",
+   "a": "Molenlaan 20",
+   "pc": "1401",
+   "t": "Bussum",
+   "price": 886000,
+   "liv": 181,
+   "plot": 160,
+   "beds": 6,
+   "lab": "A",
+   "yard": "nc",
+   "bg": null
+  },
+  {
+   "u": "https://www.funda.nl/detail/koop/almere/huis-zeussingel-41/80982986/",
+   "a": "Zeussingel 41",
+   "pc": "1363",
+   "t": "Almere",
+   "price": 900000,
+   "liv": 201,
+   "plot": 168,
+   "beds": 3,
+   "lab": "A+",
+   "yard": "nc",
+   "bg": null
+  },
+  {
+   "u": "https://www.funda.nl/detail/koop/almere/huis-vasco-da-gamapad-17/80905186/",
+   "a": "Vasco da Gamapad 17",
+   "pc": "1363",
+   "t": "Almere",
+   "price": 925000,
+   "liv": 202,
+   "plot": 242,
+   "beds": 4,
+   "lab": "A++",
+   "yard": "nc",
+   "bg": null
+  },
+  {
+   "u": "https://www.funda.nl/detail/koop/almere/huis-noorderduinslag-9/80960276/",
+   "a": "Noorderduinslag 9",
+   "pc": "1361",
+   "t": "Almere",
+   "price": 750000,
+   "liv": 158,
+   "plot": 134,
+   "beds": 4,
+   "lab": "A",
+   "yard": "nc",
+   "bg": null
+  },
+  {
+   "u": "https://www.funda.nl/detail/koop/almere/huis-slipsteek-22/44528099/",
+   "a": "Slipsteek 22",
+   "pc": "1319",
+   "t": "Almere",
+   "price": 895000,
+   "liv": 158,
+   "plot": 415,
+   "beds": 3,
+   "lab": "A++",
+   "yard": "yes",
+   "bg": 150
+  },
+  {
+   "u": "https://www.funda.nl/detail/koop/muiden/huis-muyderban-14/44579502/",
+   "a": "Muyderban 14",
+   "pc": "1398",
+   "t": "Muiden",
+   "price": 890000,
+   "liv": 146,
+   "plot": 146,
+   "beds": 4,
+   "lab": "A",
+   "yard": "nc",
+   "bg": null
+  },
+  {
+   "u": "https://www.funda.nl/detail/koop/weesp/huis-waarschapsstraat-150/44477488/",
+   "a": "Waarschapsstraat 150",
+   "pc": "1382",
+   "t": "Weesp",
+   "price": 750000,
+   "liv": 158,
+   "plot": 218,
+   "beds": 4,
+   "lab": "B",
+   "yard": "nc",
    "bg": null
   }
  ]
