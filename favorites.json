@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "budget": 900000,
  "source": "Funda favorites pages 1-6",
  "favorites": [
@@ -210,19 +210,6 @@
    "lab": "A+",
    "yard": "yes",
    "bg": 183
-  },
-  {
-   "u": "https://www.funda.nl/detail/koop/hilversum/huis-kroosmeent-17/44653291/",
-   "a": "Kroosmeent 17",
-   "pc": "1218",
-   "t": "Hilversum",
-   "price": 725000,
-   "liv": 161,
-   "plot": 339,
-   "beds": 4,
-   "lab": "A",
-   "yard": "yes",
-   "bg": 142
   },
   {
    "u": "https://www.funda.nl/detail/koop/almere/huis-symfoniestraat-33/44534586/",
@@ -775,7 +762,7 @@
    "a": "Plecht 4",
    "pc": "1319",
    "t": "Almere",
-   "price": 875000,
+   "price": 850000,
    "liv": 170,
    "plot": 284,
    "beds": 4,
