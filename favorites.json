@@ -1,8 +1,47 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "budget": 900000,
  "source": "Funda favorites pages 1-6",
  "favorites": [
+  {
+   "u": "https://www.funda.nl/detail/koop/almere/huis-leendert-valstarstraat-23/80059801/",
+   "a": "Leendert Valstarstraat 23",
+   "pc": "1318",
+   "t": "Almere",
+   "price": 645000,
+   "liv": 146,
+   "plot": 227,
+   "beds": 4,
+   "lab": "A",
+   "yard": "no",
+   "bg": 95
+  },
+  {
+   "u": "https://www.funda.nl/detail/koop/almere/huis-youri-egorovweg-3/44696498/",
+   "a": "Youri Egorovweg 3",
+   "pc": "1311",
+   "t": "Almere",
+   "price": 900000,
+   "liv": 215,
+   "plot": 326,
+   "beds": 7,
+   "lab": "A+",
+   "yard": "no",
+   "bg": 98
+  },
+  {
+   "u": "https://www.funda.nl/detail/koop/almere/huis-kromgouw-96/44696590/",
+   "a": "Kromgouw 96",
+   "pc": "1352",
+   "t": "Almere",
+   "price": 835000,
+   "liv": 169,
+   "plot": 251,
+   "beds": 5,
+   "lab": "A",
+   "yard": "no",
+   "bg": 78
+  },
   {
    "u": "https://www.funda.nl/detail/koop/almere/huis-gerard-philipestraat-7/44684818/",
    "a": "Gérard Philipestraat 7",
@@ -78,19 +117,6 @@
    "plot": 311,
    "beds": 5,
    "lab": "A",
-   "yard": "nc",
-   "bg": null
-  },
-  {
-   "u": "https://www.funda.nl/detail/koop/weesp/huis-muiderhof-18/80044068/",
-   "a": "Muiderhof 18",
-   "pc": "1382",
-   "t": "Weesp",
-   "price": 725000,
-   "liv": 132,
-   "plot": 110,
-   "beds": 5,
-   "lab": "B",
    "yard": "nc",
    "bg": null
   },
@@ -199,7 +225,7 @@
    "bg": null
   },
   {
-   "u": "https://www.funda.nl/detail/koop/almere/huis-brancusistraat-102/44652673/",
+   "u": "https://www.funda.nl/detail/koop/verkocht/almere/huis-brancusistraat-102/44652673/",
    "a": "Brancusistraat 102",
    "pc": "1328",
    "t": "Almere",
@@ -249,19 +275,6 @@
    "lab": "A",
    "yard": "likely",
    "bg": null
-  },
-  {
-   "u": "https://www.funda.nl/detail/koop/almere/huis-euphoniumweg-20/80032593/",
-   "a": "Euphoniumweg 20",
-   "pc": "1312",
-   "t": "Almere",
-   "price": 650000,
-   "liv": 169,
-   "plot": 262,
-   "beds": 3,
-   "lab": "",
-   "yard": "yes",
-   "bg": 120
   },
   {
    "u": "https://www.funda.nl/detail/koop/almere/huis-fellinilaan-11/44672747/",
@@ -576,19 +589,6 @@
    "bg": 69
   },
   {
-   "u": "https://www.funda.nl/detail/koop/verkocht/almere/huis-abrikozenhof-28/44662714/",
-   "a": "Abrikozenhof 28",
-   "pc": "1326",
-   "t": "Almere",
-   "price": 650000,
-   "liv": 154,
-   "plot": 285,
-   "beds": 5,
-   "lab": "A",
-   "yard": "yes",
-   "bg": 117
-  },
-  {
    "u": "https://www.funda.nl/detail/koop/almere/huis-vissersknoop-38/80025911/",
    "a": "Vissersknoop 38",
    "pc": "1319",
@@ -795,19 +795,6 @@
    "lab": "A+",
    "yard": "no",
    "bg": 57
-  },
-  {
-   "u": "https://www.funda.nl/detail/koop/almere/huis-vasco-da-gamapad-17/80905186/",
-   "a": "Vasco da Gamapad 17",
-   "pc": "1363",
-   "t": "Almere",
-   "price": 925000,
-   "liv": 202,
-   "plot": 242,
-   "beds": 4,
-   "lab": "A++",
-   "yard": "no",
-   "bg": 70
   },
   {
    "u": "https://www.funda.nl/detail/koop/almere/huis-noorderduinslag-9/80960276/",
