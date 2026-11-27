@@ -1,8 +1,34 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "budget": 900000,
  "source": "Funda favorites pages 1-6",
  "favorites": [
+  {
+   "u": "https://www.funda.nl/detail/koop/weesp/huis-fort-vreeswijkhof-12/44698928/",
+   "a": "Fort Vreeswijkhof 12",
+   "pc": "1384",
+   "t": "Weesp",
+   "price": 900000,
+   "liv": 141,
+   "plot": 145,
+   "beds": 4,
+   "lab": "A",
+   "yard": "no",
+   "bg": 61
+  },
+  {
+   "u": "https://www.funda.nl/detail/koop/almere/huis-lindengouw-136/44697177/",
+   "a": "Lindengouw 136",
+   "pc": "1351",
+   "t": "Almere",
+   "price": 695000,
+   "liv": 185,
+   "plot": 609,
+   "beds": 5,
+   "lab": "C",
+   "yard": "likely",
+   "bg": null
+  },
   {
    "u": "https://www.funda.nl/detail/koop/almere/huis-leendert-valstarstraat-23/80059801/",
    "a": "Leendert Valstarstraat 23",
@@ -225,19 +251,6 @@
    "bg": null
   },
   {
-   "u": "https://www.funda.nl/detail/koop/verkocht/almere/huis-brancusistraat-102/44652673/",
-   "a": "Brancusistraat 102",
-   "pc": "1328",
-   "t": "Almere",
-   "price": 825000,
-   "liv": 176,
-   "plot": 452,
-   "beds": 4,
-   "lab": "A+",
-   "yard": "yes",
-   "bg": 183
-  },
-  {
    "u": "https://www.funda.nl/detail/koop/almere/huis-symfoniestraat-33/44534586/",
    "a": "Symfoniestraat 33",
    "pc": "1312",
@@ -431,19 +444,6 @@
    "lab": "A+",
    "yard": "no",
    "bg": 40
-  },
-  {
-   "u": "https://www.funda.nl/detail/koop/almere/huis-jh-leopoldstraat-8/80961393/",
-   "a": "J.H. Leopoldstraat 8",
-   "pc": "1321",
-   "t": "Almere",
-   "price": 595000,
-   "liv": 164,
-   "plot": 250,
-   "beds": 4,
-   "lab": "A",
-   "yard": "unknown",
-   "bg": null
   },
   {
    "u": "https://www.funda.nl/detail/koop/almere/huis-roemeniestraat-87/80872985/",
