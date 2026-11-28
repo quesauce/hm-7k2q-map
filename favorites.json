@@ -1,8 +1,47 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "budget": 900000,
  "source": "Funda favorites pages 1-6",
  "favorites": [
+  {
+   "u": "https://www.funda.nl/detail/koop/almere/huis-guadeloupestraat-24/89736648/",
+   "a": "Guadeloupestraat 24",
+   "pc": "1339",
+   "t": "Almere",
+   "price": 695000,
+   "liv": 178,
+   "plot": 299,
+   "beds": 4,
+   "lab": "B",
+   "yard": "unknown",
+   "bg": null
+  },
+  {
+   "u": "https://www.funda.nl/detail/koop/almere/huis-plecht-25/80823871/",
+   "a": "Plecht 25",
+   "pc": "1319",
+   "t": "Almere",
+   "price": 860000,
+   "liv": 177,
+   "plot": 263,
+   "beds": 4,
+   "lab": "A",
+   "yard": "unknown",
+   "bg": null
+  },
+  {
+   "u": "https://www.funda.nl/detail/koop/almere/huis-citroenstraat-14/80012811/",
+   "a": "Citroenstraat 14",
+   "pc": "1326",
+   "t": "Almere",
+   "price": 825000,
+   "liv": 151,
+   "plot": 498,
+   "beds": 4,
+   "lab": "B",
+   "yard": "likely",
+   "bg": null
+  },
   {
    "u": "https://www.funda.nl/detail/koop/weesp/huis-fort-vreeswijkhof-12/44698928/",
    "a": "Fort Vreeswijkhof 12",
